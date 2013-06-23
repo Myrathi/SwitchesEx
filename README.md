@@ -1,7 +1,7 @@
 Switches
 ========
 
-This public repository holds the public issues tracker for **Switches**. 
+This public repository holds the public issues tracker for **Switches**.  
 You can find the **FTB Forum** thread (with download links) [here](http://smarturl.it/Switches).
 
 \* _There is no code in this repository. Switches is closed source._ \*
